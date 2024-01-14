@@ -2,7 +2,7 @@
 API Time and Cities
 
 ## Description
-This repositorie consists from code for creating API that give us the current time in New-York and then give us the list of ten biggest cities of Armenia
+This repository consists from code for creating API that give us the current time in New-York and then give us the list of ten biggest cities of Armenia
 
 ## Installing and launch of app
 1. Clone this repositorie in your PC
