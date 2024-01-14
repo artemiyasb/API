@@ -5,7 +5,7 @@ API Time and Cities
 This repository consists from code for creating API that give us the current time in New-York and then give us the list of ten biggest cities of Armenia
 
 ## Installing and launch of app
-1. Clone this repositorie in your PC
+1. Clone this repository in your PC
 2. Install all the required dependencies, completing the command *pip install -r requirements.txt.*
 3. Launch the app completing the command *python main.py*
    
